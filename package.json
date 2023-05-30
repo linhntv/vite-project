@@ -1,0 +1,29 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@grapecity/wijmo.vue2.all": "^5.20231.888",
+    "install": "^0.13.0",
+    "node-sass": "^8.0.0",
+    "scss": "^0.2.4",
+    "style-loader": "^3.3.2",
+    "vue": "3.2.26",
+    "vue-inline-svg": "^3.1.2",
+    "vue-router": "4",
+    "vue3-perfect-scrollbar": "^1.6.1",
+    "wijmo": "^5.20231.888"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "sass": "^1.62.1",
+    "sass-loader": "^13.2.2",
+    "vite": "^4.3.2"
+  }
+}
